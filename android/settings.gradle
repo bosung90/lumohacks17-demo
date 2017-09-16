@@ -1,0 +1,3 @@
+rootProject.name = 'lumohacks17Demo'
+
+include ':app'
